@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "350830733413",
+    "project_id": "swosbloodbank",
+    "storage_bucket": "swosbloodbank.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350830733413:android:2af55984d5bea1b8197e8c",
+        "android_client_info": {
+          "package_name": "com.fht.swos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350830733413-9e3itbjerhupd3io3vqf0djurubqr5p5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGOWMOVNrDyX0tWqCxajktgeW6qxwKFGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350830733413-9e3itbjerhupd3io3vqf0djurubqr5p5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
